@@ -41,7 +41,9 @@ Hydraulic modelling licences are expensive, and I try to keep everything I build
 open source and free to use. If something here has saved you time and you'd like
 to contribute to the licence fund, any support is genuinely appreciated.
 
-<img src="https://raw.githubusercontent.com/Sebasmadridmx/Sebasmadridmx/main/qr-code%20(1).png" alt="Donation QR code" width="150"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sebasmadridmx/Sebasmadridmx/main/qr-code%20(1).png" alt="Donation QR code" width="250"/>
+</div>
 
 Or via [Buy Me a Coffee](https://buymeacoffee.com/smadrid)
 
